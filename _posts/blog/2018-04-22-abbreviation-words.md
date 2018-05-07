@@ -12,6 +12,9 @@ keywords:
 
 - PDO - PHP Data Object
 - Mysqlnd - MySQL Native Driver
+- SPL - Standard PHP Library
 - LRU - Least Recently Used
 - OSI Model - Open System Interconnection Reference Model
 - OAuth - Open Authorization
+- CSRF - Cross Site Request Forgery
+- XSS - Cross-site scripting
